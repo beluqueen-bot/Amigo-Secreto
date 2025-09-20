@@ -4,7 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Estado](https://img.shields.io/badge/Estado-🚀%20Completado-brightgreen?style=for-the-badge)
 
-**¡Una app divertida para sortear amigos secretos!**  
+**¡Una aplicación web divertida para sortear amigos secretos!**  
 
 ## 🤔 ¿Cómo usar?🤔  
 1. Escribe los nombres de tus amigos en el campo.  
