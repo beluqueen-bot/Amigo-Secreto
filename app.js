@@ -8,9 +8,13 @@ let input = document.getElementById("amigo");
          listaamigos.push(nombre);
           let lista = document.getElementById("listaAmigos");
     lista.innerHTML += `<li>${nombre}</li>`;
+    input.value = "";
+    input.focus();
     console.log ("Funcionando con normalidad")
     //Con esta funcion agrego amigos a la lista
     // trim: sirve para los espacios vacios//
+    //"input.value="";"" sirve para limpiar el input// 
+    //"input.focus(); Sirve para volver a colocar el puntero//
 }
 function sortearAmigo(){
  if (listaamigos.length === 0) {
@@ -30,3 +34,4 @@ function sortearAmigo(){
     botonAnadir.style.cursor = "not-allowed";
     //Desactiva el boton añadiruna vez sorteada la lista// 
   }
+
