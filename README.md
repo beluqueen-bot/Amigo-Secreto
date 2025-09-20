@@ -1,5 +1,5 @@
 # ˚.🎀༘⋆🎁 Amigo Secreto 🎁 ˚.🎀༘⋆
-**¡Una pagina divertida para sortear amigos secretos!**  
+**¡Una app divertida para sortear amigos secretos!**  
 
 ## 🤔 ¿Cómo usar?🤔  
 1. Escribe los nombres de tus amigos en el campo.  
